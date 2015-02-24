@@ -8,15 +8,26 @@ var users = require('../../app/controllers/users.server.controller'),
 
 module.exports = function(app) {
 	// Article Routes
-	app.route('/articles')
-		.get(articles.list)
-		.post(users.requiresLogin, articles.create);
+    app.route('/articles')
+        .get(articles.list)
+        .post(users.requiresLogin, articles.create);app.route('/articles')
+        .get(articles.list);
 
-	app.route('/articles/:articleId')
-		.get(articles.read)
-		.put(users.requiresLogin, articles.hasAuthorization, articles.update)
-		.delete(users.requiresLogin, articles.hasAuthorization, articles.delete);
+    app.route('/qas')
+        .get(articles.list)
+        .post(users.requiresLogin, articles.create);app.route('/articles')
+        .get(articles.list);
 
-	// Finish by binding the article middleware
+    app.route('/articles/:articleId')
+        .get(articles.read)
+        .put(users.requiresLogin, articles.hasAuthorization, articles.update)
+        .delete(users.requiresLogin, articles.hasAuthorization, articles.delete);
+
+    app.route('/qas/:articleId')
+        .get(articles.read)
+        .put(users.requiresLogin, articles.hasAuthorization, articles.update)
+        .delete(users.requiresLogin, articles.hasAuthorization, articles.delete);
+
+    // Finish by binding the article middleware
 	app.param('articleId', articles.articleByID);
 };

@@ -7,7 +7,9 @@ angular.module('articles').controller('ArticlesController', ['$scope', '$statePa
 		$scope.create = function() {
 			var article = new Articles({
 				title: this.title,
-				content: this.content
+				content: this.content,
+                qa:[{question:'DummyOne',
+                choices:[{selected: true, answer:'good'},{selected: false, answer: 'bad'}]}]
 			});
 			article.$save(function(response) {
 				$location.path('articles/' + response._id);
@@ -53,6 +55,7 @@ angular.module('articles').controller('ArticlesController', ['$scope', '$statePa
 			$scope.article = Articles.get({
 				articleId: $stateParams.articleId
 			});
+            console.log($scope.article);
 		};
 	}
 ]);
