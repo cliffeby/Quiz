@@ -28,6 +28,11 @@ module.exports = function(app) {
         .put(users.requiresLogin, articles.hasAuthorization, articles.update)
         .delete(users.requiresLogin, articles.hasAuthorization, articles.delete);
 
+    //app.route('/qas/:articleId/qas/:qasId')
+    //    .get(articles.read)
+    //    .put(users.requiresLogin, articles.hasAuthorization, articles.update)
+    //    .delete(users.requiresLogin, articles.hasAuthorization, articles.delete);
+
     // Finish by binding the article middleware
 	app.param('articleId', articles.articleByID);
 };

@@ -22,7 +22,7 @@ angular.module('articles').config(['$stateProvider',
                 templateUrl: 'modules/articles/views/edit-article.client.view.html'
             }).
             state('listQas', {
-                url: '/qas/:articleId',
+                url: '/qas/:articleId/listqas',
                 templateUrl: 'modules/articles/views/list-qas.client.view.html'
             }).
             state('createQas', {
@@ -34,7 +34,7 @@ angular.module('articles').config(['$stateProvider',
                 templateUrl: 'modules/articles/views/view-qas.client.view.html'
             }).
             state('editQas', {
-                url: '/qas/:articleId/edit',
+                url: '/qas/:articleId/qas/:qaId/edit',
                 templateUrl: 'modules/articles/views/edit-qas.client.view.html'
             });
 	}
