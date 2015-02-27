@@ -6,7 +6,7 @@ angular.module('articles').controller('ArticlesController', ['$scope', '$statePa
 		$scope.authentication = Authentication;
         $scope.typeDropdown = articleInitService.typeDropdown();
         $scope.difficultyDropdown = articleInitService.difficultyDropdown();
-
+        console.log('td and dd',$scope.typeDropdown, $scope.difficultyDropdown);
         $scope.modalUpdate = function (size,selectedQa) {
 
             var modalInstance = $modal.open({
@@ -59,7 +59,7 @@ angular.module('articles').controller('ArticlesController', ['$scope', '$statePa
 		};
         $scope.createQa = function () {
             $scope.article.qa.push({question:this.question, choices:[{ answer: this.answer, selectedAnswer: false  }]}) ;
-        }
+        };
         $scope.addChoice = function () {
             $scope.qa.choices.push({ answer: this.answer, selectedAnswer: false  });
         };
