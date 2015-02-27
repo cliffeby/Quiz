@@ -1,7 +1,6 @@
 <section data-ng-controller="ArticlesController" data-ng-init="findOne()">
 	<div class="page-header">
-		<h1>Qas</h1>{{article.title}}
-        <div>{{article}}</div>
+		<h1>{{article.title}}</h1>
 	</div>
 	<div class="list-group">
 		<a data-ng-repeat="qa in article.qa" ng-click="modalUpdate('lg',qa)" class="list-group-item">
@@ -14,9 +13,15 @@
 			</small>
 
 			<p class="list-group-item-text" data-ng-bind="qa.choices.length"></p>
-		</a>
+            <button type='button' class='btn2' ng-click='deleteQa($event)'>{{$index+1}}</button>
+        </a>
 	</div>
 	<div class="alert alert-warning text-center">
-		Create a new qas? <a href="#!/qas/{{article._id}}/create">create one</a>?
+		Create a new qas?
+        <button class="btn btn-primary" ng-click="createQa()">Create</button>
 	</div>
+    <div class="modal-footer">
+        <button class="btn btn-primary" ng-click="update()">OK</button>
+        <button class="btn btn-warning" ng-click="cancel()">Cancel</button>
+    </div>
 </section>

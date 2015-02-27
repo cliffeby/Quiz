@@ -13,6 +13,17 @@ angular.module('articles').controller('ArticlesController', ['$scope', '$statePa
                 templateUrl: 'modules/articles/views/edit-qas.client.view.html',
                 controller: function ($scope, $modalInstance, qa) {
                     $scope.qa = qa;
+                    $scope.selected = {
+                        qa: $scope.qa[0]
+                    };
+
+                    $scope.ok = function () {
+                        $modalInstance.close($scope.selected.qa);
+                    };
+
+                    $scope.cancel = function () {
+                        $modalInstance.dismiss('cancel');
+                    };
                 },
                 size: size,
                 resolve: {
@@ -24,11 +35,10 @@ angular.module('articles').controller('ArticlesController', ['$scope', '$statePa
 
             modalInstance.result.then(function (selectedItem) {
                 $scope.selected = selectedItem;
-            }, function () {
+                }, function () {
                 $log.info('Modal dismissed at: ' + new Date());
             });
         };
-
 
 		$scope.create = function() {
 			var article = new Articles({
@@ -47,8 +57,25 @@ angular.module('articles').controller('ArticlesController', ['$scope', '$statePa
 				$scope.error = errorResponse.data.message;
 			});
 		};
+        $scope.createQa = function () {
+            $scope.article.qa.push({question:this.question, choices:[{ answer: this.answer, selectedAnswer: false  }]}) ;
+        }
         $scope.addChoice = function () {
-            $scope.article.qa[0].choices.push({ answer: this.answer, selectedAnswer: false  });
+            $scope.qa.choices.push({ answer: this.answer, selectedAnswer: false  });
+        };
+        $scope.deleteQa = function (ev) {
+            var ss = ev.target.innerText.toString() - 1;
+            console.log(ss);
+            var article = $scope.article;
+            console.log(article);
+            $scope.article.qa.splice(ss, 1);
+        };
+        $scope.deleteChoice = function (ev) {
+            var ss = ev.target.innerText.toString() - 1;
+            console.log(ss);
+            var qa = $scope.qa;
+            console.log(qa);
+            $scope.qa.choices.splice(ss, 1);
         };
 		$scope.remove = function(article) {
 			if (article) {
@@ -91,18 +118,6 @@ angular.module('articles').controller('ArticlesController', ['$scope', '$statePa
             $scope.article = Articles.get({
                 articleId: $stateParams.articleId, qa:{qaId: $stateParams.qaId}
             });
-
-
-            //app.get('/fruit/:fruitName/:fruitColor', function(req, res) {
-            //    var data = {
-            //        "fruit": {
-            //            "apple": req.params.fruitName,
-            //            "color": req.params.fruitColor
-            //        }
-            //    };
-            //
-            //    send.json(data);
-            //});
         };
 	}
 ]);
