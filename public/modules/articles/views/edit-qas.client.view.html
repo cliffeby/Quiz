@@ -3,7 +3,7 @@
         <!--<h1>Edit Qa</h1>-->
     <!--</div>-->
     <div class="col-md-12">
-        <form class="form-horizontal" data-ng-submit="update()" novalidate>
+        <form class="form-horizontal"  novalidate>
             <div class="form-group">
                 <label class="dialog-header-wait" for="title">Question</label>
 
@@ -60,15 +60,16 @@
                 </section>
                 <section class='col-md-6'>
                     <div class='form-group'>
-
-                        <button type="button" class="btn btn-default dropdown-toggle">Type <span
-                                class="caret"></span></button>
+                        <div>
+                        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+                            Type <span class="caret"></span></button>
                         <ul class="dropdown-menu">
                             <li ng-repeat="dp1 in typeDropdown">
                                 <a>{{dp1.label}}</a>
                             </li>
                         </ul>
-
+                        </div>
+                        <div>
                         <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown1">
                             Difficulty <span class="caret"></span></button>
                         <ul class="dropdown-menu">
@@ -76,6 +77,7 @@
                                 <a>{{dp2.label}}</a>
                             </li>
                         </ul>
+                        </div>
                         <br/>
                         <input type='checkbox' data-ng-model='qa.hintOn'>Allow Hint</input>
                         <input type='checkbox' data-ng-model='qa.timeOn'>Timed</input>
@@ -84,13 +86,6 @@
                         <input type='checkbox' data-ng-model='qa.randomizeQuestionsOn'>Randomize Questions</input>
                         <input type="text" data-ng-model="qa.questionNumber" id="title1" class="form-control"
                                placeholder="Question Number" required>
-
-                        <form class="form-group">
-                            <input type="submit" value="Update" class="btn btn-default">
-
-                        </form>
-
-
                     </div>
                     <div class="modal-footer">
                         <button class="btn btn-primary" ng-click="ok()">OK</button>
