@@ -6,6 +6,23 @@
         <ng-form ="myModal" >
         <form  class="form-horizontal, ng-modal-dialog" novalidate>
             <div class="form-group">
+                {{article.title}}
+                <button type="button" class="btn btn-default dropdown-toggle">Type <span
+                        class="caret"></span></button>
+                <ul class="dropdown-menu">
+                    <li ng-repeat="dp1 in typeDropdown">
+                        <a>{{dp1.label}}</a>
+                    </li>
+                </ul>
+
+                <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown1">
+                    Difficulty <span class="caret"></span></button>
+                <ul class="dropdown-menu">
+                    <li ng-repeat="dp2 in difficultyDropdown">
+                        <a>{{dp2.label}}</a>
+                    </li>
+                </ul>
+                <br/>
                 <label class="dialog-header-wait" for="title">Question</label>
 
                 <div class="modal-header">
@@ -62,22 +79,7 @@
                 <section class='col-md-6'>
                     <div class='form-group'>
 
-                        <button type="button" class="btn btn-default dropdown-toggle">Type <span
-                                class="caret"></span></button>
-                        <ul class="dropdown-menu">
-                            <li ng-repeat="dp1 in typeDropdown">
-                                <a>{{dp1.label}}</a>
-                            </li>
-                        </ul>
 
-                        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown1">
-                            Difficulty <span class="caret"></span></button>
-                        <ul class="dropdown-menu">
-                            <li ng-repeat="dp2 in difficultyDropdown">
-                                <a>{{dp2.label}}</a>
-                            </li>
-                        </ul>
-                        <br/>
                         <input type='checkbox' data-ng-model='qa.hintOn'>Allow Hint</input>
                         <input type='checkbox' data-ng-model='qa.timeOn'>Timed</input>
                         <input type='checkbox' data-ng-model='qa.fifty50On'>50/50</input>
@@ -85,13 +87,6 @@
                         <input type='checkbox' data-ng-model='qa.randomizeQuestionsOn'>Randomize Questions</input>
                         <input type="text" data-ng-model="qa.questionNumber" id="title1" class="form-control"
                                placeholder="Question Number" required>
-
-                        <form class="form-group">
-                            <input type="submit" value="Update" class="btn btn-default">
-
-                        </form>
-
-
                     </div>
                     <div class="modal-footer">
                         <button class="btn btn-primary" ng-click="ok()">OK</button>
