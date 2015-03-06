@@ -30,10 +30,61 @@ var QasSchema = new Schema({
         trim: true,
         required: 'Question cannot be blank'
     },
+    questionNumber: {
+        type: String,
+        default: '',
+        trim: true
+    },
+    imageURL: {
+        type: String,
+        default: '',
+        trim: true
+    },
     choices: [AnswerSchema],
+    hint: {
+        type: String,
+        default: '',
+        trim: true
+    },
     user: {
         type: Schema.ObjectId,
         ref: 'User'
+    },
+    difficulty: {
+        type: String,
+        default: 'Easy',
+        trim: true
+    },
+    type: {
+        type: String,
+        default: 'FIB',
+        trim: true
+    },
+    hintOn: {
+        type: Boolean,
+        default: false,
+        trim: true
+    },
+    timeOn: {
+        type: Boolean,
+        default: false,
+        trim: true
+    },
+    fifty50On: {
+        type: Boolean,
+        default: false,
+        trim: true
+    },
+    randomizeQuestionsOn: {
+        type: Boolean,
+        default: false,
+        trim: true
+    },
+    randomizeAnswersOn: {
+        type: Boolean,
+        default: false,
+        trim: true
+
     }
 });
 /**
