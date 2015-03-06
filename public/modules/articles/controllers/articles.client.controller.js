@@ -11,20 +11,7 @@ angular.module('articles').controller('ArticlesController', ['$scope', '$statePa
 
             var modalInstance = $modal.open({
                 templateUrl: 'modules/articles/views/edit-qas.client.view.html',
-                controller: function ($scope, $modalInstance, qa) {
-                    $scope.qa = qa;
-                    $scope.selected = {
-                        qa: $scope.qa[0]
-                    };
-
-                    $scope.ok = function () {
-                        $modalInstance.close($scope.selected.qa);
-                    };
-
-                    $scope.cancel = function () {
-                        $modalInstance.dismiss('cancel');
-                    };
-                },
+                controller: 'ModalCtrl',
                 size: size,
                 resolve: {
                     qa: function () {

@@ -1,27 +1,35 @@
 <section data-ng-controller="ArticlesController">
-    <!--<div class="page-header">-->
-        <!--<h1>Edit Qa</h1>-->
-    <!--</div>-->
     <div class="col-md-12">
         <ng-form ="myModal" >
         <form  class="form-horizontal, ng-modal-dialog" novalidate>
+            <br>
             <div class="form-group">
-                {{article.title}}
-                <button type="button" class="btn btn-default dropdown-toggle">Type <span
-                        class="caret"></span></button>
-                <ul class="dropdown-menu">
-                    <li ng-repeat="dp1 in typeDropdown">
-                        <a>{{dp1.label}}</a>
-                    </li>
-                </ul>
+                <div class="btn-group" dropdown is-open="status.isopen">
+                    <button type="button" class="btn btn-primary dropdown-toggle" dropdown-toggle ng-disabled="disabled">Type
+                        <span>{{type.label}}</span> <b class="caret"></b></button>
+                    <ul class="dropdown-menu" role="menu">
+                        <li ng-repeat="dp1 in typeDropdown">
+                            <a ng-click="setTypeDropdown(dp1)">{{dp1.label}}</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="btn-group" dropdown>
+                    <button type="button" class="btn btn-primary dropdown-toggle" dropdown-toggle ng-disabled="disabled">
+                        Difficulty <span>{{difficulty.label}}</span> <b class="caret"></b></button>
+                    <ul class="dropdown-menu" role="menu">
+                        <li ng-repeat="dp2 in difficultyDropdown">
+                            <a ng-click="setDifficultyDropdown(dp2)">{{dp2.label}}</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class='form-group'>
+                    <input type='checkbox' data-ng-model='qa.hintOn'>Allow Hint
+                    <input type='checkbox' data-ng-model='qa.timeOn'>Timed
+                    <input type='checkbox' data-ng-model='qa.fifty50On'>50/50
+                    <input type='checkbox' data-ng-model='qa.randomizeAnswersOn'>Randomize Answers
+                    <input type='checkbox' data-ng-model='qa.randomizeQuestionsOn'>Randomize Questions
 
-                <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown1">
-                    Difficulty <span class="caret"></span></button>
-                <ul class="dropdown-menu">
-                    <li ng-repeat="dp2 in difficultyDropdown">
-                        <a>{{dp2.label}}</a>
-                    </li>
-                </ul>
+                </div>
                 <br/>
                 <label class="dialog-header-wait" for="title">Question</label>
 
@@ -39,7 +47,7 @@
 				</span>
                     <input type="text" data-ng-model="choice.answer" class="form-control"
                            placeholder="Enter answer {{$index+1}} text"><br>
-					
+
 				<span class='input-group-addon'>
 					<button type='button' class='btn2' ng-click='deleteChoice($event)'>{{$index+1}}</button>
 				</span>
@@ -62,32 +70,22 @@
                     </div>
                     <div>
                         <img ng-src="{{qa.imageURL}}" height="100">
-                    </div>
-                    <div class="form-group">
+
                         <label class="control-label" for="title">Hint</label>
 
                         <div class="controls">
                             <input type="text" data-ng-model="qa.hint" id="title2" class="form-control"
                                    placeholder="Hint" required>
+                            <input type="text" data-ng-model="qa.questionNumber" id="title1" class="form-control"
+                                   placeholder="Question Number" required>
                         </div>
                     </div>
                 </div>
             </section>
             <div class='row'>
                 <section class='col-md-6'>
-                </section>
-                <section class='col-md-6'>
-                    <div class='form-group'>
 
 
-                        <input type='checkbox' data-ng-model='qa.hintOn'>Allow Hint</input>
-                        <input type='checkbox' data-ng-model='qa.timeOn'>Timed</input>
-                        <input type='checkbox' data-ng-model='qa.fifty50On'>50/50</input>
-                        <input type='checkbox' data-ng-model='qa.randomizeAnswersOn'>Randomize Answers</input>
-                        <input type='checkbox' data-ng-model='qa.randomizeQuestionsOn'>Randomize Questions</input>
-                        <input type="text" data-ng-model="qa.questionNumber" id="title1" class="form-control"
-                               placeholder="Question Number" required>
-                    </div>
                     <div class="modal-footer">
                         <button class="btn btn-primary" ng-click="ok()">OK</button>
                         <button class="btn btn-warning" ng-click="cancel()">Cancel</button>
@@ -95,7 +93,7 @@
                 </section>
             </div>
         </form>
-            </ng-form>
+        </ng-form>
     </div>
 
 </section>
