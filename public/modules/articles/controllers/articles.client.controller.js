@@ -1,4 +1,8 @@
 'use strict';
+//During your javascript imports, just make sure myApp.js is after AngularJS
+// but before any controllers / services / etc...otherwise angular won't be
+// able to initialize your controllers.
+
 
 angular.module('articles').controller('ArticlesController', ['$scope', '$stateParams', '$location',
     'Authentication','Articles','articleInitService','$modal','$log',
@@ -11,7 +15,34 @@ angular.module('articles').controller('ArticlesController', ['$scope', '$statePa
 
             var modalInstance = $modal.open({
                 templateUrl: 'modules/articles/views/edit-qas.client.view.html',
-                controller: 'ModalCtrl',
+                controller: function ($scope, $modalInstance, qa) {
+                    $scope.setDifficultyDropdown = function (result) {
+                        $scope.difficulty = result;
+                        console.log($scope.difficulty);
+                        qa.difficulty = $scope.difficulty.label;
+                        console.log(qa.difficulty);
+                    };
+                    $scope.setTypeDropdown = function (result) {
+                        $scope.type = result;
+                        console.log($scope.type);
+                        qa.type = $scope.type.label;
+                        console.log(qa.type);
+                    };
+
+                    $scope.qa = qa;
+                    $scope.selected = {
+                        qa: $scope.qa[0]
+                    };
+
+                    $scope.ok = function () {
+                        $modalInstance.close($scope.selected.qa);
+                        console.log($scope.qa);
+                    };
+
+                    $scope.cancel = function () {
+                        $modalInstance.dismiss('cancel');
+                    };
+                },
                 size: size,
                 resolve: {
                     qa: function () {
