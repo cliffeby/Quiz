@@ -2,7 +2,7 @@
 //During your javascript imports, just make sure myApp.js is after AngularJS
 // but before any controllers / services / etc...otherwise angular won't be
 // able to initialize your controllers.
-
+//
 
 angular.module('articles').controller('ArticlesController', ['$scope', '$stateParams', '$location',
     'Authentication','Articles','articleInitService','$modal','$log',
