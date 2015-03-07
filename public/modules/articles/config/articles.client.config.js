@@ -7,7 +7,7 @@ angular.module('articles').run(['Menus',
 		Menus.addMenuItem('topbar', 'Quizzes', 'articles', 'dropdown', '/articles(/create)?');
         Menus.addSubMenuItem('topbar', 'articles', 'List Quizzes', 'articles');
         Menus.addSubMenuItem('topbar', 'articles', 'New Quiz', 'articles/create');
-        Menus.addSubMenuItem('topbar', 'articles', 'Take Quiz', 'qas');
-        Menus.addSubMenuItem('topbar', 'articles', 'New Qas', 'qas/create');
+        Menus.addSubMenuItem('topbar', 'articles', 'Take Quiz', 'taker1');
+        Menus.addSubMenuItem('topbar', 'articles', 'Select Quiz', 'taker');
 	}
 ]);

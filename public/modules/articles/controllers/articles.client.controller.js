@@ -141,5 +141,27 @@ angular.module('articles').controller('ArticlesController', ['$scope', '$statePa
                 articleId: $stateParams.articleId, qa:{qaId: $stateParams.qaId}
             });
         };
+        $scope.taker = function(){
+            $scope.article = Articles.get({
+                articleId: $stateParams.articleId
+            });
+            var article = $scope.article;
+            $log.info(article);
+            $scope.totalItems = article.qa.length;
+            $scope.currentPage = 4;
+
+            $scope.setPage = function (pageNo) {
+                $scope.currentPage = pageNo;
+            };
+
+            $scope.pageChanged = function() {
+                $log.log('Page changed to: ' + $scope.currentPage);
+            };
+
+            $scope.maxSize = 5;
+            $scope.bigTotalItems = 175;
+            $scope.bigCurrentPage = 1;
+
+        }
 	}
 ]);

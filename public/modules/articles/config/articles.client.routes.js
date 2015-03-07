@@ -36,6 +36,14 @@ angular.module('articles').config(['$stateProvider',
             state('editQas', {
                 url: '/qas/:articleId/qas/:qaId/edit',
                 templateUrl: 'modules/articles/views/edit-qas.client.view.html'
+            }).
+            state('takeQas', {
+                url: '/taker/:qaId/listqas',
+                templateUrl: 'modules/articles/views/take-qas.client.view.html'
+            }).
+            state('selectQuiz', {
+                url: '/taker',
+                templateUrl: 'modules/articles/views/list-quiztotake.client.view.html'
             });
 	}
 ]);

@@ -13,6 +13,11 @@ module.exports = function(app) {
         .post(users.requiresLogin, articles.create);app.route('/articles')
         .get(articles.list);
 
+    app.route('/taker')
+        .get(articles.list)
+        .post(users.requiresLogin, articles.create);app.route('/articles')
+        .get(articles.list);
+
     app.route('/qas')
         .get(articles.list)
         .post(users.requiresLogin, articles.create);app.route('/articles')
