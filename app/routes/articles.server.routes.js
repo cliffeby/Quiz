@@ -32,6 +32,11 @@ module.exports = function(app) {
         .get(articles.read)
         .put(users.requiresLogin, articles.hasAuthorization, articles.update)
         .delete(users.requiresLogin, articles.hasAuthorization, articles.delete);
+
+    app.route('/taker/:articleId/listqas')
+        .get(articles.read)
+        .put(users.requiresLogin, articles.hasAuthorization, articles.update)
+        .delete(users.requiresLogin, articles.hasAuthorization, articles.delete);
 //
     //app.route('/qas/:articleId/qas/:qasId')
     //    .get(articles.read)

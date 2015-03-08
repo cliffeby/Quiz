@@ -1,13 +1,13 @@
 <section data-ng-controller="ArticlesController" data-ng-init="taker()">
-	<div class="page-header">
-  <h1>{{article.qa[1].question}}</h1>
+   <div class="page-header">
+        <h1>{{article.qa[currentQuestion-1].question}}</h1>
 	</div>
 	<div class="col-md-12">
         <form class="form-horizontal" data-ng-submit="submitAnswers()">
             <div class="col-md-1">
 
                 <fieldset>
-                    <div class='input-group' ng-repeat="choices in article.qa[1].choices">
+                    <div class='input-group' ng-repeat="choices in article.qa[currentQuestion-1].choices">
 					<span class="input-group-addon">
 					<input type='checkbox' ng-model='choices.correctAnswer[$index]'>
                         {{choices.answer}}
@@ -20,17 +20,19 @@
             <div class="col-md-6">
                 <fieldset>
                     <div>
-                        <img ng-src="{{imageURL}}" height="100" width="100">
+                        <img ng-src="{{article.qa[currentQuestion-1].imageURL}}" height="100" width="100">
                     </div>
                     <div class="controls">
-                        <input data-ng-model="hint" id="content" class="form-control" placeholder="Hint">
+                        <input data-ng-model="article.qa[currentQuestion-1].hint" id="content" class="form-control" placeholder="Hint">
                     </div>
                     <hr />
 
                     <h4>next question</h4>
-
-                    <pagination total-items="bigTotalItems" ng-model="bigCurrentPage" max-size="maxSize" class="pagination-sm" boundary-links="true" rotate="false" num-pages="numPages"></pagination>
-                    <pre>Page: {{bigCurrentPage}} / {{numPages}}</pre>
+                    {{article.qa.length*10}}
+                    <pagination total-items="totalQuestions" ng-model="currentQuestion"
+                                max-size="maxSize" class="pagination-sm" boundary-links="true"
+                                rotate="false" num-pages="numPages"></pagination>
+                    <pre>Page: {{currentQuestion}} / {{numPages}}</pre>
 
 
                         <div class="form-group">
@@ -42,4 +44,5 @@
             </div>
         </form>
 	</div>
+        </div>
 </section>

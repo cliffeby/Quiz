@@ -143,12 +143,7 @@ angular.module('articles').controller('ArticlesController', ['$scope', '$statePa
         };
         $scope.taker = function(){
             $scope.article = Articles.get({
-                articleId: $stateParams.articleId
-            });
-            var article = $scope.article;
-            $log.info(article);
-            $scope.totalItems = article.qa.length;
-            $scope.currentPage = 4;
+                articleId: $stateParams.articleId});
 
             $scope.setPage = function (pageNo) {
                 $scope.currentPage = pageNo;
@@ -158,10 +153,11 @@ angular.module('articles').controller('ArticlesController', ['$scope', '$statePa
                 $log.log('Page changed to: ' + $scope.currentPage);
             };
 
-            $scope.maxSize = 5;
-            $scope.bigTotalItems = 175;
-            $scope.bigCurrentPage = 1;
-
-        }
+            $scope.maxSize = 10;
+            $scope.totalQuestions = 80;
+            $scope.currentQuestion = 1;
+            $scope.numPages = 8;
+            }
 	}
+
 ]);

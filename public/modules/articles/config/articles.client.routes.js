@@ -38,7 +38,7 @@ angular.module('articles').config(['$stateProvider',
                 templateUrl: 'modules/articles/views/edit-qas.client.view.html'
             }).
             state('takeQas', {
-                url: '/taker/:qaId/listqas',
+                url: '/taker/:articleId/listqas',
                 templateUrl: 'modules/articles/views/take-qas.client.view.html'
             }).
             state('selectQuiz', {
