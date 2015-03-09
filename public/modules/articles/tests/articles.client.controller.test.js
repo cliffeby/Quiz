@@ -54,7 +54,11 @@
 			// Create sample article using the Articles service
 			var sampleArticle = new Articles({
 				title: 'An Article about MEAN',
-				content: 'MEAN rocks!'
+				content: 'MEAN rocks!',
+                qa:[{question:'DummyOne',
+                    choices:[{selected: true, answer:'good'},{selected: false, answer: 'bad'}]},
+                    {question:'DummyTwo',
+                        choices:[{selected: true, answer:'good'},{selected: true, answer: 'bad'}]}]
 			});
 
 			// Create a sample articles array that includes the new article
@@ -75,8 +79,13 @@
 			// Define a sample article object
 			var sampleArticle = new Articles({
 				title: 'An Article about MEAN',
-				content: 'MEAN rocks!'
+				content: 'MEAN rocks!',
+                qa:[{question:'DummyOne',
+                    choices:[{selected: true, answer:'good'},{selected: false, answer: 'bad'}]},
+                    {question:'DummyTwo',
+                        choices:[{selected: true, answer:'good'},{selected: true, answer: 'bad'}]}]
 			});
+
 
 			// Set the URL parameter
 			$stateParams.articleId = '525a8422f6d0f87f0e407a33';
@@ -96,14 +105,23 @@
 			// Create a sample article object
 			var sampleArticlePostData = new Articles({
 				title: 'An Article about MEAN',
-				content: 'MEAN rocks!'
+				content: 'MEAN rocks!',
+                qa:[{question:'DummyOne',
+                    choices:[{selected: true, answer:'good'},{selected: false, answer: 'bad'}]},
+                    {question:'DummyTwo',
+                        choices:[{selected: true, answer:'good'},{selected: true, answer: 'bad'}]}]
+
 			});
 
 			// Create a sample article response
 			var sampleArticleResponse = new Articles({
 				_id: '525cf20451979dea2c000001',
 				title: 'An Article about MEAN',
-				content: 'MEAN rocks!'
+				content: 'MEAN rocks!',
+                qa:[{question:'DummyOne',
+                    choices:[{selected: true, answer:'good'},{selected: false, answer: 'bad'}]},
+                    {question:'DummyTwo',
+                        choices:[{selected: true, answer:'good'},{selected: true, answer: 'bad'}]}]
 			});
 
 			// Fixture mock form input values
@@ -130,7 +148,11 @@
 			var sampleArticlePutData = new Articles({
 				_id: '525cf20451979dea2c000001',
 				title: 'An Article about MEAN',
-				content: 'MEAN Rocks!'
+				content: 'MEAN Rocks!',
+                qa:[{question:'DummyOne',
+                    choices:[{selected: true, answer:'good'},{selected: false, answer: 'bad'}]},
+                    {question:'DummyTwo',
+                        choices:[{selected: true, answer:'good'},{selected: true, answer: 'bad'}]}]
 			});
 
 			// Mock article in scope
