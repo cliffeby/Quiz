@@ -1,6 +1,8 @@
 /**
  * Created by EbyC on 3/12/2015.
  */
+'use strict';
+
 angular.module('articles.directive.testQuiz', [])
     .directive('testQuiz', function(){
         return {
@@ -8,5 +10,5 @@ angular.module('articles.directive.testQuiz', [])
             controller: function($scope){
                 alert('directive fired');
             }
-        }
+        };
     });
