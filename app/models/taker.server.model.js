@@ -24,6 +24,10 @@ var TakerSchema = new Schema({
 		type: Schema.ObjectId,
 		ref: 'User'
 	},
+    takerName:{
+        type: Schema.ObjectId,
+        ref: 'User'
+    },
     quizId: String,
     quizType: String,
     quizDifficulty: String,
