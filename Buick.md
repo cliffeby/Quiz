@@ -10,13 +10,14 @@ End clip and gutter ![IMG_3399](https://user-images.githubusercontent.com/143199
 Extract nail holding clip and gutter ![image](https://user-images.githubusercontent.com/1431998/82164019-6836a600-987c-11ea-9a5c-bf96add66f02.jpg)
 ![image](https://user-images.githubusercontent.com/1431998/82164009-5ce37a80-987c-11ea-97e5-8e250ffe6c4c.jpg)
 ![image](https://user-images.githubusercontent.com/1431998/82164019-6836a600-987c-11ea-9a5c-bf96add66f02.jpg)
-Imsge4![IMG_3404](https://user-images.githubusercontent.com/1431998/82164000-51904f00-987c-11ea-8edb-09522fdee0c7.jpg)
+
 
 
 
 
 Cloth covered rubber bead covering gutter nails ![IMG_3425](https://user-images.githubusercontent.com/1431998/82373368-7a832200-99eb-11ea-8e8a-0af824007577.jpg)
-Image7![IMG_3424](https://user-images.githubusercontent.com/1431998/82373396-866ee400-99eb-11ea-9d65-e22e13f843b9.jpg)
+Image4![IMG_3404](https://user-images.githubusercontent.com/1431998/82164000-51904f00-987c-11ea-8edb-09522fdee0c7.jpg)
+Nails holding gutter to the car ![IMG_3424](https://user-images.githubusercontent.com/1431998/82373396-866ee400-99eb-11ea-9d65-e22e13f843b9.jpg)
 4" segment between gutter and top bead ![IMG_3403](https://user-images.githubusercontent.com/1431998/82164002-56550300-987c-11ea-934e-0a3ff299daed.jpg)
 Center cord inserted between fabric ![IMG_3411](https://user-images.githubusercontent.com/1431998/82454205-786aa300-9a7f-11ea-85a2-15fea6b50c08.jpg)
 Image 9 ![IMG_3423](https://user-images.githubusercontent.com/1431998/82373408-8969d480-99eb-11ea-8d46-e677c9da2a37.jpg)
