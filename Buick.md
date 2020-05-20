@@ -21,13 +21,10 @@ Image7![IMG_3424](https://user-images.githubusercontent.com/1431998/82373396-866
 Center cord inserted between fabric ![IMG_3411](https://user-images.githubusercontent.com/1431998/82454205-786aa300-9a7f-11ea-85a2-15fea6b50c08.jpg)
 Image 9 ![IMG_3423](https://user-images.githubusercontent.com/1431998/82373408-8969d480-99eb-11ea-8d46-e677c9da2a37.jpg)
 Image 12![IMG_3421](https://user-images.githubusercontent.com/1431998/82373423-8c64c500-99eb-11ea-9e33-bda185bd9d2d.jpg)
-Image 13 ![IMG_3423](https://user-images.githubusercontent.com/1431998/82373425-8cfd5b80-99eb-11ea-96d5-b411855ff82e.jpg)
 Image 16 ![IMG_3420](https://user-images.githubusercontent.com/1431998/82373636-dea5e600-99eb-11ea-86a7-51b890f89d6c.jpg)
 Image 17 ![IMG_3421](https://user-images.githubusercontent.com/1431998/82373641-df3e7c80-99eb-11ea-80b2-14ad80d0b701.jpg)
-Image 18 ![IMG_3423](https://user-images.githubusercontent.com/1431998/82373644-df3e7c80-99eb-11ea-9c3c-692feae3974a.jpg)
 Image 21 ![IMG_3414](https://user-images.githubusercontent.com/1431998/82373661-e4033080-99eb-11ea-85cf-c61bf930c00c.jpg)
 Image 22 ![IMG_3420](https://user-images.githubusercontent.com/1431998/82373665-e5345d80-99eb-11ea-9024-0b4cc75f4c1d.jpg)
-Image 23 ![IMG_3421](https://user-images.githubusercontent.com/1431998/82373666-e5345d80-99eb-11ea-8bc0-1e371e8d2651.jpg)
 Image 24 ![IMG_3423](https://user-images.githubusercontent.com/1431998/82373667-e5345d80-99eb-11ea-8a7c-2f8d47bd956c.jpg)
 
 
