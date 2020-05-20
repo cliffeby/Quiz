@@ -33,15 +33,13 @@ Image 15![IMG_3425](https://user-images.githubusercontent.com/1431998/82373431-8
  Image 16 ![IMG_3420](https://user-images.githubusercontent.com/1431998/82373636-dea5e600-99eb-11ea-86a7-51b890f89d6c.jpg)
 Image 17 ![IMG_3421](https://user-images.githubusercontent.com/1431998/82373641-df3e7c80-99eb-11ea-80b2-14ad80d0b701.jpg)
 Image 18 ![IMG_3423](https://user-images.githubusercontent.com/1431998/82373644-df3e7c80-99eb-11ea-9c3c-692feae3974a.jpg)
-Image 19 ![IMG_3424](https://user-images.githubusercontent.com/1431998/82373647-dfd71300-99eb-11ea-8027-6b737ccd8e3b.jpg)
-Image 20 ![IMG_3425](https://user-images.githubusercontent.com/1431998/82373648-dfd71300-99eb-11ea-8575-5f321a585ce6.jpg)
+
 
 Image 21 ![IMG_3414](https://user-images.githubusercontent.com/1431998/82373661-e4033080-99eb-11ea-85cf-c61bf930c00c.jpg)
 Image 22 ![IMG_3420](https://user-images.githubusercontent.com/1431998/82373665-e5345d80-99eb-11ea-9024-0b4cc75f4c1d.jpg)
 Image 23 ![IMG_3421](https://user-images.githubusercontent.com/1431998/82373666-e5345d80-99eb-11ea-8bc0-1e371e8d2651.jpg)
 Image 24 ![IMG_3423](https://user-images.githubusercontent.com/1431998/82373667-e5345d80-99eb-11ea-8a7c-2f8d47bd956c.jpg)
-Image 25![IMG_3424](https://user-images.githubusercontent.com/1431998/82373669-e5ccf400-99eb-11ea-9229-a00ebfc1ae18.jpg)
-Image 26![IMG_3425](https://user-images.githubusercontent.com/1431998/82373671-e5ccf400-99eb-11ea-8fea-6b6c2f476819.jpg)
 
 
-Image 27 ![IMG_3411](https://user-images.githubusercontent.com/1431998/82373682-ebc2d500-99eb-11ea-846c-2cc69c61d066.jpg)
+
+x
