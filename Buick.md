@@ -20,7 +20,7 @@ Cloth covered rubber bead covering gutter nails ![IMG_3425](https://user-images.
 Image7![IMG_3424](https://user-images.githubusercontent.com/1431998/82373396-866ee400-99eb-11ea-9d65-e22e13f843b9.jpg)
 Image 8 ![IMG_3425](https://user-images.githubusercontent.com/1431998/82373398-87077a80-99eb-11ea-8d96-684521e6a28b.jpg)
 4" segment between gutter and top bead ![IMG_3403](https://user-images.githubusercontent.com/1431998/82164002-56550300-987c-11ea-934e-0a3ff299daed.jpg)
-Center cord inserted between fabric ![IMG_3403](https://user-images.githubusercontent.com/1431998/82164002-56550300-987c-11ea-934e-0a3ff299daed.jpg)
+Center cord inserted between fabric ![IMG_3411](https://user-images.githubusercontent.com/1431998/82454205-786aa300-9a7f-11ea-85a2-15fea6b50c08.jpg)
 Image 9 ![IMG_3423](https://user-images.githubusercontent.com/1431998/82373408-8969d480-99eb-11ea-8d46-e677c9da2a37.jpg)
 Image 10 ![IMG_3424](https://user-images.githubusercontent.com/1431998/82373411-8a026b00-99eb-11ea-919b-9f9bfb37f44b.jpg)
 Image 11 ![IMG_3425](https://user-images.githubusercontent.com/1431998/82373413-8a026b00-99eb-11ea-925a-2c71959f4b75.jpg)
