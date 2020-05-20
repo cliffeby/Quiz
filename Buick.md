@@ -1,20 +1,10 @@
-## 1926 Buick Rook resoration
+## 1926 Buick Roof resoration
 ### Roof removal
 #### Right rear at rain gutter
-
-
-
-
-
 End clip and gutter ![IMG_3399](https://user-images.githubusercontent.com/1431998/82164015-6371f200-987c-11ea-95fa-3642bb5d9bca.jpg)
 Extract nail holding clip and gutter ![image](https://user-images.githubusercontent.com/1431998/82164019-6836a600-987c-11ea-9a5c-bf96add66f02.jpg)
 ![image](https://user-images.githubusercontent.com/1431998/82164009-5ce37a80-987c-11ea-97e5-8e250ffe6c4c.jpg)
 ![image](https://user-images.githubusercontent.com/1431998/82164019-6836a600-987c-11ea-9a5c-bf96add66f02.jpg)
-
-
-
-
-
 Cloth covered rubber bead covering gutter nails ![IMG_3425](https://user-images.githubusercontent.com/1431998/82373368-7a832200-99eb-11ea-8e8a-0af824007577.jpg)
 Image4![IMG_3404](https://user-images.githubusercontent.com/1431998/82164000-51904f00-987c-11ea-8edb-09522fdee0c7.jpg)
 Nails holding gutter to the car ![IMG_3424](https://user-images.githubusercontent.com/1431998/82373396-866ee400-99eb-11ea-9d65-e22e13f843b9.jpg)
@@ -23,11 +13,6 @@ Center cord inserted between fabric ![IMG_3411](https://user-images.githubuserco
 Image 9 ![IMG_3423](https://user-images.githubusercontent.com/1431998/82373408-8969d480-99eb-11ea-8d46-e677c9da2a37.jpg)
 Image 12![IMG_3421](https://user-images.githubusercontent.com/1431998/82373423-8c64c500-99eb-11ea-9e33-bda185bd9d2d.jpg)
 Image 16 ![IMG_3420](https://user-images.githubusercontent.com/1431998/82373636-dea5e600-99eb-11ea-86a7-51b890f89d6c.jpg)
-Image 17 ![IMG_3421](https://user-images.githubusercontent.com/1431998/82373641-df3e7c80-99eb-11ea-80b2-14ad80d0b701.jpg)
 Image 21 ![IMG_3414](https://user-images.githubusercontent.com/1431998/82373661-e4033080-99eb-11ea-85cf-c61bf930c00c.jpg)
 Image 22 ![IMG_3420](https://user-images.githubusercontent.com/1431998/82373665-e5345d80-99eb-11ea-9024-0b4cc75f4c1d.jpg)
-Image 24 ![IMG_3423](https://user-images.githubusercontent.com/1431998/82373667-e5345d80-99eb-11ea-8a7c-2f8d47bd956c.jpg)
 
-
-
-x
