@@ -8,6 +8,7 @@ B-pillar![IMG_3439](https://user-images.githubusercontent.com/1431998/82601939-5
 A-pillar![IMG_3440](https://user-images.githubusercontent.com/1431998/82601941-51df6180-9b7e-11ea-92b0-4e154b1485a8.jpg)
 Visor![IMG_3441](https://user-images.githubusercontent.com/1431998/82601942-51df6180-9b7e-11ea-93d3-7d6ee80b2839.jpg)
 Visor to Back![IMG_3442](https://user-images.githubusercontent.com/1431998/82601943-51df6180-9b7e-11ea-8820-ef3b42c3918f.jpg)
+Rear binding![IMG_3446](https://user-images.githubusercontent.com/1431998/82604102-c1a31b80-9b81-11ea-8933-5457f53722ca.jpg)
 
 
 
@@ -28,5 +29,5 @@ Image 9 ![IMG_3423](https://user-images.githubusercontent.com/1431998/82373408-8
 Image 12![IMG_3421](https://user-images.githubusercontent.com/1431998/82373423-8c64c500-99eb-11ea-9e33-bda185bd9d2d.jpg)
 Image 16 ![IMG_3420](https://user-images.githubusercontent.com/1431998/82373636-dea5e600-99eb-11ea-86a7-51b890f89d6c.jpg)
 Image 21 ![IMG_3414](https://user-images.githubusercontent.com/1431998/82373661-e4033080-99eb-11ea-85cf-c61bf930c00c.jpg)
-Image 22 ![IMG_3420](https://user-images.githubusercontent.com/1431998/82373665-e5345d80-99eb-11ea-9024-0b4cc75f4c1d.jpg)
+Image 22 ![IMG_3443](https://user-images.githubusercontent.com/1431998/82604099-c10a8500-9b81-11ea-9a76-2f6f0c89baeb.jpg)
 
