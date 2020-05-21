@@ -2,6 +2,13 @@
 ### Measurments
 
 
+![D pillar](https://user-images.githubusercontent.com/1431998/82373682-ebc2d500-99eb-11ea-846c-2cc69c61d066.jpg)
+![C pillar](https://user-images.githubusercontent.com/1431998/82601935-50ae3480-9b7e-11ea-94cf-b16d0c99db0a.jpg)
+![B pillar](https://user-images.githubusercontent.com/1431998/82601936-5146cb00-9b7e-11ea-8d40-5eef44157162.jpg)
+![A pillar](https://user-images.githubusercontent.com/1431998/82601939-5146cb00-9b7e-11ea-8c74-76202dbf5469.jpg)
+![IMG_3440](https://user-images.githubusercontent.com/1431998/82601941-51df6180-9b7e-11ea-92b0-4e154b1485a8.jpg)
+![Visor](https://user-images.githubusercontent.com/1431998/82601942-51df6180-9b7e-11ea-93d3-7d6ee80b2839.jpg)
+![Visor to Rear](https://user-images.githubusercontent.com/1431998/82601943-51df6180-9b7e-11ea-8820-ef3b42c3918f.jpg)
 
 
 
