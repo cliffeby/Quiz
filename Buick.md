@@ -1,4 +1,11 @@
 ## 1926 Buick Roof resoration
+### Measurments
+
+
+
+
+
+
 ### Roof removal
 #### Right rear at rain gutter
 End clip and gutter ![IMG_3399](https://user-images.githubusercontent.com/1431998/82164015-6371f200-987c-11ea-95fa-3642bb5d9bca.jpg)
