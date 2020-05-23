@@ -15,7 +15,7 @@ Rear binding![IMG_3446](https://user-images.githubusercontent.com/1431998/826041
 
 
 ### Roof removal
-#### Right rear at rain gutter
+#### Passenger rear at rain gutter
 End clip and gutter ![IMG_3399](https://user-images.githubusercontent.com/1431998/82164015-6371f200-987c-11ea-95fa-3642bb5d9bca.jpg)
 Extract nail holding clip and gutter ![image](https://user-images.githubusercontent.com/1431998/82164019-6836a600-987c-11ea-9a5c-bf96add66f02.jpg)
 ![image](https://user-images.githubusercontent.com/1431998/82164009-5ce37a80-987c-11ea-97e5-8e250ffe6c4c.jpg)
@@ -30,4 +30,12 @@ Image 12![IMG_3421](https://user-images.githubusercontent.com/1431998/82373423-8
 Image 16 ![IMG_3420](https://user-images.githubusercontent.com/1431998/82373636-dea5e600-99eb-11ea-86a7-51b890f89d6c.jpg)
 Image 21 ![IMG_3414](https://user-images.githubusercontent.com/1431998/82373661-e4033080-99eb-11ea-85cf-c61bf930c00c.jpg)
 Image 22 ![IMG_3443](https://user-images.githubusercontent.com/1431998/82604099-c10a8500-9b81-11ea-9a76-2f6f0c89baeb.jpg)
+
+
+Partial passenger gutter removal ![IMG_3494](https://user-images.githubusercontent.com/1431998/82720337-ba166c00-9c80-11ea-8f69-c60b7b2678d0.jpg)
+Passenger gutter removed![IMG_3495](https://user-images.githubusercontent.com/1431998/82720338-baaf0280-9c80-11ea-9543-63358518a277.jpg)
+Passenger roof, gutter, visor detail ![IMG_3499](https://user-images.githubusercontent.com/1431998/82720340-baaf0280-9c80-11ea-8784-f897cc706bb9.jpg)
+Rear bead removal ![IMG_3501](https://user-images.githubusercontent.com/1431998/82720341-bb479900-9c80-11ea-8d8f-1f75c8edbff3.jpg)
+Bead removed - driver side![IMG_3502](https://user-images.githubusercontent.com/1431998/82720342-bb479900-9c80-11ea-9bf7-3395a6413aa7.jpg)
+Bead removed - passenger side![IMG_3503](https://user-images.githubusercontent.com/1431998/82720335-b97dd580-9c80-11ea-9e08-9bb660081f13.jpg)
 
