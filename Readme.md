@@ -43,11 +43,34 @@ Bead removed - passenger side![IMG_3503](https://user-images.githubusercontent.c
 Rear driver-side clip ![IMG_3506](https://user-images.githubusercontent.com/1431998/82720446-be8f5480-9c81-11ea-8924-90362ac189e8.jpg)
 Cloth and rubber gutter insert removal ![IMG_3508](https://user-images.githubusercontent.com/1431998/82720447-bf27eb00-9c81-11ea-9088-0b8629b5644a.jpg)
 Rear driver-side bead to gutter connection ![IMG_3510](https://user-images.githubusercontent.com/1431998/82720448-bf27eb00-9c81-11ea-8e89-33400cb661f6.jpg)
-#### Driver side visor
+#### Front - visor
 Driver-side gutter at visor ![IMG_3513](https://user-images.githubusercontent.com/1431998/82720449-bfc08180-9c81-11ea-977d-3e269a0c026f.jpg)
 Driver-side visor with gutter removed ![IMG_3520](https://user-images.githubusercontent.com/1431998/82720445-bdf6be00-9c81-11ea-96e8-3aba740b6d2f.jpg)
+
+Driver side front corner![IMG_3524](https://user-images.githubusercontent.com/1431998/82742777-3b790780-9d30-11ea-9fdb-8c2ad2cb6373.jpg)
+Driver side front corner 
+![IMG_3528](https://user-images.githubusercontent.com/1431998/82742806-695e4c00-9d30-11ea-83c7-94c1007f2bdd.jpg)
+
+
+
+
+Passenger side front corner![IMG_3535](https://user-images.githubusercontent.com/1431998/82742838-cb1eb600-9d30-11ea-8d5d-b9b939690a99.jpg)
+![IMG_3525](https://user-images.githubusercontent.com/1431998/82742779-3e73f800-9d30-11ea-96b4-5be4742de32c.jpg)
+Front with visor ![IMG_3529](https://user-images.githubusercontent.com/1431998/82742817-84c95700-9d30-11ea-80cd-414e6f9a428d.jpg)
+
+
+#### Top removed
+Plan view![IMG_3533](https://user-images.githubusercontent.com/1431998/82742829-a9bdca00-9d30-11ea-8aaa-fad126659e56.jpg)
+Plan view ![IMG_3534](https://user-images.githubusercontent.com/1431998/82742830-aa566080-9d30-11ea-8cf8-4ff2a29db94a.jpg)
+
+Front reinforcing![IMG_3535](https://user-images.githubusercontent.com/1431998/82742855-06b98000-9d31-11ea-93e2-281d6fb2182b.jpg)
+Visor![IMG_3537](https://user-images.githubusercontent.com/1431998/82742856-0e792480-9d31-11ea-87e6-cc9f1f3cb973.jpg)
+
+
+
 #### Wood damage
 Drive side front wood damage ![IMG_3516](https://user-images.githubusercontent.com/1431998/82720450-bfc08180-9c81-11ea-95a3-4ea894506cee.jpg)
+Passenger rear wood damage![IMG_3541](https://user-images.githubusercontent.com/1431998/82742862-15079c00-9d31-11ea-8804-9f92632513ce.jpg)
 #### Roof structure
 A-B pillar roof structure ![IMG_3518](https://user-images.githubusercontent.com/1431998/82720451-c0591800-9c81-11ea-8a23-29f9fd8d94fd.jpg)
 C-D pillar roof structure ![IMG_3519](https://user-images.githubusercontent.com/1431998/82720452-c0591800-9c81-11ea-9c6d-6388538e3d8c.jpg)
