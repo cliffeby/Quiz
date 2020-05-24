@@ -54,9 +54,8 @@ Driver side front corner
 
 
 
-Passenger side front corner![IMG_3535](https://user-images.githubusercontent.com/1431998/82742838-cb1eb600-9d30-11ea-8d5d-b9b939690a99.jpg)
-![IMG_3525](https://user-images.githubusercontent.com/1431998/82742779-3e73f800-9d30-11ea-96b4-5be4742de32c.jpg)
-Front with visor ![IMG_3529](https://user-images.githubusercontent.com/1431998/82742817-84c95700-9d30-11ea-80cd-414e6f9a428d.jpg)
+Passenger side front corner![IMG_3525](https://user-images.githubusercontent.com/1431998/82742779-3e73f800-9d30-11ea-96b4-5be4742de32c.jpg)
+
 
 
 #### Top removed
@@ -71,6 +70,7 @@ Visor![IMG_3537](https://user-images.githubusercontent.com/1431998/82742856-0e79
 #### Wood damage
 Drive side front wood damage ![IMG_3516](https://user-images.githubusercontent.com/1431998/82720450-bfc08180-9c81-11ea-95a3-4ea894506cee.jpg)
 Passenger rear wood damage![IMG_3541](https://user-images.githubusercontent.com/1431998/82742862-15079c00-9d31-11ea-8804-9f92632513ce.jpg)
+Front with visor ![IMG_3529](https://user-images.githubusercontent.com/1431998/82742817-84c95700-9d30-11ea-80cd-414e6f9a428d.jpg)
 #### Roof structure
 A-B pillar roof structure ![IMG_3518](https://user-images.githubusercontent.com/1431998/82720451-c0591800-9c81-11ea-8a23-29f9fd8d94fd.jpg)
 C-D pillar roof structure ![IMG_3519](https://user-images.githubusercontent.com/1431998/82720452-c0591800-9c81-11ea-9c6d-6388538e3d8c.jpg)
