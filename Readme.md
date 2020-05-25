@@ -1,5 +1,5 @@
 ## 1926 Buick Roof restoration
-### Measurments
+### Measurements
 
 
 D-pillar![IMG_3437](https://user-images.githubusercontent.com/1431998/82601935-50ae3480-9b7e-11ea-94cf-b16d0c99db0a.jpg)
@@ -46,17 +46,11 @@ Rear driver-side bead to gutter connection ![IMG_3510](https://user-images.githu
 #### Front - visor
 Driver-side gutter at visor ![IMG_3513](https://user-images.githubusercontent.com/1431998/82720449-bfc08180-9c81-11ea-977d-3e269a0c026f.jpg)
 Driver-side visor with gutter removed ![IMG_3520](https://user-images.githubusercontent.com/1431998/82720445-bdf6be00-9c81-11ea-96e8-3aba740b6d2f.jpg)
-
 Driver side front corner![IMG_3524](https://user-images.githubusercontent.com/1431998/82742777-3b790780-9d30-11ea-9fdb-8c2ad2cb6373.jpg)
 Driver side front corner 
 ![IMG_3528](https://user-images.githubusercontent.com/1431998/82742806-695e4c00-9d30-11ea-83c7-94c1007f2bdd.jpg)
 
-
-
-
 Passenger side front corner![IMG_3525](https://user-images.githubusercontent.com/1431998/82742779-3e73f800-9d30-11ea-96b4-5be4742de32c.jpg)
-
-
 
 #### Top removed
 Plan view![IMG_3533](https://user-images.githubusercontent.com/1431998/82742829-a9bdca00-9d30-11ea-8aaa-fad126659e56.jpg)
@@ -64,8 +58,6 @@ Plan view ![IMG_3534](https://user-images.githubusercontent.com/1431998/82742830
 
 Front reinforcing![IMG_3535](https://user-images.githubusercontent.com/1431998/82742855-06b98000-9d31-11ea-93e2-281d6fb2182b.jpg)
 Visor![IMG_3537](https://user-images.githubusercontent.com/1431998/82742856-0e792480-9d31-11ea-87e6-cc9f1f3cb973.jpg)
-
-
 
 #### Wood damage
 Drive side front wood damage ![IMG_3516](https://user-images.githubusercontent.com/1431998/82720450-bfc08180-9c81-11ea-95a3-4ea894506cee.jpg)
