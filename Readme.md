@@ -59,10 +59,18 @@ Plan view ![IMG_3534](https://user-images.githubusercontent.com/1431998/82742830
 Front reinforcing![IMG_3535](https://user-images.githubusercontent.com/1431998/82742855-06b98000-9d31-11ea-93e2-281d6fb2182b.jpg)
 Visor![IMG_3537](https://user-images.githubusercontent.com/1431998/82742856-0e792480-9d31-11ea-87e6-cc9f1f3cb973.jpg)
 
-#### Wood damage
+#### Wood damage and repair
 Drive side front wood damage ![IMG_3516](https://user-images.githubusercontent.com/1431998/82720450-bfc08180-9c81-11ea-95a3-4ea894506cee.jpg)
 Passenger rear wood damage![IMG_3541](https://user-images.githubusercontent.com/1431998/82742862-15079c00-9d31-11ea-8804-9f92632513ce.jpg)
 Front with visor ![IMG_3529](https://user-images.githubusercontent.com/1431998/82742817-84c95700-9d30-11ea-80cd-414e6f9a428d.jpg)
+
+Front cross member stock ![IMG_3566](https://user-images.githubusercontent.com/1431998/83934309-046a1380-a77e-11ea-919a-9141f78a0cf3.jpg)
+Mounted front member - partailly shaped ![IMG_3569](https://user-images.githubusercontent.com/1431998/83934311-0502aa00-a77e-11ea-813d-691b665e6390.jpg)
+Right rear damage![IMG_3570](https://user-images.githubusercontent.com/1431998/83934312-0502aa00-a77e-11ea-9b93-60b7aa9457df.jpg)
+Replacemnt block ![IMG_3571](https://user-images.githubusercontent.com/1431998/83934313-059b4080-a77e-11ea-90ee-79480ebd07a9.jpg)
+Installed right rear block ![IMG_3572](https://user-images.githubusercontent.com/1431998/83934314-059b4080-a77e-11ea-82b5-6d3a67b0f096.jpg)
 #### Roof structure
 A-B pillar roof structure ![IMG_3518](https://user-images.githubusercontent.com/1431998/82720451-c0591800-9c81-11ea-8a23-29f9fd8d94fd.jpg)
 C-D pillar roof structure ![IMG_3519](https://user-images.githubusercontent.com/1431998/82720452-c0591800-9c81-11ea-9c6d-6388538e3d8c.jpg)
+#### Rain getter replacement
+Rubber trim for rain getter![IMG_3574](https://user-images.githubusercontent.com/1431998/83934307-03d17d00-a77e-11ea-9afb-010650cee3f1.jpg)
