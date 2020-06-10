@@ -62,6 +62,7 @@ Visor![IMG_3537](https://user-images.githubusercontent.com/1431998/82742856-0e79
 #### Wood damage and repair
 Drive side front wood damage ![IMG_3516](https://user-images.githubusercontent.com/1431998/82720450-bfc08180-9c81-11ea-95a3-4ea894506cee.jpg)
 Passenger rear wood damage![IMG_3541](https://user-images.githubusercontent.com/1431998/82742862-15079c00-9d31-11ea-8804-9f92632513ce.jpg)
+Dowel and epoxy - right rear ![IMG_3585](https://user-images.githubusercontent.com/1431998/84309232-d1cd6b80-ab2d-11ea-8149-b72d828563a7.jpg)
 Front with visor ![IMG_3529](https://user-images.githubusercontent.com/1431998/82742817-84c95700-9d30-11ea-80cd-414e6f9a428d.jpg)
 
 Front cross member stock ![IMG_3566](https://user-images.githubusercontent.com/1431998/83934309-046a1380-a77e-11ea-919a-9141f78a0cf3.jpg)
@@ -74,3 +75,12 @@ A-B pillar roof structure ![IMG_3518](https://user-images.githubusercontent.com/
 C-D pillar roof structure ![IMG_3519](https://user-images.githubusercontent.com/1431998/82720452-c0591800-9c81-11ea-9c6d-6388538e3d8c.jpg)
 #### Rain getter replacement
 Rubber trim for rain getter![IMG_3574](https://user-images.githubusercontent.com/1431998/83934307-03d17d00-a77e-11ea-9afb-010650cee3f1.jpg)
+
+### Subber repair
+
+
+Passenger Front snubber belt replacement ![IMG_3598](https://user-images.githubusercontent.com/1431998/84309229-d09c3e80-ab2d-11ea-90e1-c454450b7fe4.jpg)
+Driver front snubber belt replacement ![IMG_3599](https://user-images.githubusercontent.com/1431998/84309231-d134d500-ab2d-11ea-95e3-483610d5cb9e.jpg)
+
+
+![IMG_3588](https://user-images.githubusercontent.com/1431998/84309238-d2660200-ab2d-11ea-91c5-88eb3228c635.jpg)
